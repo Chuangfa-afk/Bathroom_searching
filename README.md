@@ -1,5 +1,10 @@
 # NYC Parks Public Restrooms Interactive Map
 
+## Problem Discovering
+
+STOP typing "public bathroom near me" in Google Maps
+Wouldn't be mad when you are shopping at New York, specially at Manhattan, you find yourself a need of using the bathroom? It only to be overwhelmed by the dense crowds and lack of public facilities. Instead USE my application nyc-restroom-map to give yourself a plus
+
 ## Project Overview
 
 This repository hosts a single-page web application that maps all public restrooms located in NYC parks. Users can effortlessly filter restrooms by borough or utilize the search functionality. Selecting a restroom on the map displays detailed information, nearby venues, and images of the surrounding area.
